@@ -1,6 +1,6 @@
 # Proxy Integration With Node-Fetch
 
-[![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
 Follow this guide to learn how to use Node-Fetch with proxy servers. You'll see how to integrate Node-Fetch with Oxylabs' [Residential](https://oxylabs.io/products/residential-proxy-pool) and [Datacenter Proxies](https://oxylabs.io/products/datacenter-proxies), as well as [Web Unblocker](https://oxylabs.io/products/web-unblocker), but the steps apply to most proxy services. The guide is also available on the [Oxylabs website](https://oxylabs.io/resources/integrations/node-fetch).
 
